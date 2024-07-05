@@ -1,5 +1,7 @@
 # varint
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/teeworlds-go/varint.svg)](https://pkg.go.dev/github.com/teeworlds-go/varint) [![Go Report Card](https://goreportcard.com/badge/github.com/teeworlds-go/varint)](https://goreportcard.com/report/github.com/teeworlds-go/varint)
+
 varint is a simple variable-length integer encoding. It is a way to store integers in a space-efficient manner.
 This variant of varint is space efficient for small integers and is used in the Teeworlds network protocol.
 
