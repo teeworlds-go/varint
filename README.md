@@ -13,6 +13,15 @@ These varants may be used for security research or other purposes.
 // Data, Integer bits that follow the sign
 ```
 
+## Installation
+```shell
+// for latest tagged release
+go get github.com/teeworlds-go/varint@latest
+
+// for bleeding edge version
+go get github.com/teeworlds-go/varint@master
+```
+
 ## Example
 
 ```go
